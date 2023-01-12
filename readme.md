@@ -4,3 +4,5 @@ This repository contains data analysis scripts and associated files accompanying
 **Manuscript authors:** Maria I. Lazaro-Pena, Adam B. Cornwell, Carlos A. Diaz-Balzac, Ritika Das, Nicholas Macoretta, Juilee Thakar, Andrew V. Samuelson
 
 The bulk RNA-Seq dataset analyzed and presented in this manuscript will be available from Gene Expression Omnibus at series accession GSE220744 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?&acc=GSE220744) upon publication of the associated paper.
+
+An RData workspace image file is available from https://rochester.box.com/shared/static/a9ck85v652zyt93a1j4w7ojhspczd8mh.rdata 
